@@ -1,0 +1,95 @@
+---
+layout: post
+title: "打破信息茧房，2024 获得 AI 第一手咨询"
+date: 2024-06-27
+---
+
+
+
+打破信息茧房，2024 获得 AI 第一手咨询
+目的：
+
+1. 获得最新资讯，摆脱单一信息渠道
+2. 建立起个人信息大数据癖好，方便后续算法推送
+3. 持续进步，学习前沿知识
+    **文中标红加粗为作者推荐**
+    正文：
+     论坛社区 Community：https://www.reddit.com/
+    Reddit：美国贴吧，讨论一些疑难杂症报错，前言资讯等
+    Artificial Intelligence Gateway: 泛人工智能的所有信息
+    Stable diffusion: 关于 AI 绘图的许多讨论，报错解决等
+    Deeplearning：深度学习群组
+    Artificial：关于人工智能的前沿资讯
+    X（twitter）: 关注各种大佬的信息，各类大佬都会在上面发消息，不一一列举
+    Github：学习各类项目实操代码，实战运用 https://github.com
+    Github trend：了解当下最火的开源技术 https://github.com/trending
+    Huggingface：深度学习开源社区建构，模型分享，demo 展示 https://huggingface.co/
+    Huggingface Daily Papers：每日推荐论文 https://huggingface.co/papers
+     论文 Papers：
+    ICCV CVPR ECCV /siggraph: 三大国际会议
+    Google Scholar: 学术论文搜索所
+    Paperwithtcode
+    ：
+    很赞的网站，分类收集了论文和代码 https://paperswithcode.com/
+
+
+
+ 视频博主 Content creators：
+b 站：
+秋叶，青龙圣者，大江户战士：早期 B 站 AI 图像分享者，不用解释。
+跟李沐学 AI：大神
+https://space.bilibili.com/1567748478?spm_id_from=333.337.search-card.all.click
+里奥__：AIGC，CV 方向论文解读，清晰易懂
+https://space.bilibili.com/23460054?spm_id_from=333.337.0.0
+深度之眼官方账号：教程
+https://space.bilibili.com/365093772/video
+AI 算法工程师 Future：新算法新模型咨询，教程
+https://space.bilibili.com/1190294984?spm_id_from=333.337.search-card.all.click
+KnowingAI 知智：各种 AI 概念的可视化，科普向，貌似停更
+https://space.bilibili.com/237111975?spm_id_from=333.337.0.0
+Jason 陪你练绝技：AIGC 3D，nerf, 3DGS 持续追踪
+https://space.bilibili.com/455056488?spm_id_from=333.337.0.0
+数字黑魔法：全 AI 偏底层和文字模型
+https://space.bilibili.com/1235535223?spm_id_from=333.337.0.0
+-Zho-：时效性强，开源工作
+https://space.bilibili.com/484366804?spm_id_from=333.337.0.0
+林粒粒呀：Python 学习入门
+https://space.bilibili.com/523995133
+油管：
+StanfordOnline: 吴恩达的各种课
+https://www.youtube.com/@stanfordonline
+FreeCodeCamp.org：Pytorch 深度课程，and more
+https://www.youtube.com/@freecodecamp
+Prompt Engineering: 通用 AI 各种信息
+https://www.youtube.com/@engineerprompt
+Olivio Sarikas ：AI 绘画各种信息，主要在图像领域，时效性不错，大胡子不错
+https://www.youtube.com/@OlivioSarikas
+Aitrepreneur: 全 AI，通俗易懂，应用层面，手把手教学，声音魔性
+https://www.youtube.com/@Aitrepreneur
+3Blue1Brown: 数学，AI 等，可视化满级，信息质量满级，强烈推荐
+https://www.youtube.com/@3blue1brown
+Corbin Brown：各种大语言模型的深度应用
+https://www.youtube.com/@webcafeai
+Scott Detweiler：ComfyUI 的各种教程https://www.youtube.com/@sedetweiler
+
+
+
+
+
+ 下载模型 AI Models：
+CIVITAI: 全球 AI 图像模型分享网站 https://civitai.com/
+LIBLIB：国内 AI 图像模型分享网站 https://www.liblib.ai/
+Huggingface: 深度学习模型分析 https://huggingface.co/
+Tusiart: 国内 AI 图像模型分享网站 https://tusiart.com/
+ 各种官网 Official Website
+Openai：目前最前沿的闭源 AI 科技公司，时刻关注 https://openai.com/
+XAI: 马斯克的 AI 公司，产品叫 Grok https://x.ai/
+Claude: https://claude.ai/login?returnTo=%2F
+Midjourney：目前最成功的 AIGC 图像公司 https://discord.com/invite/midjourney
+Stability ai：目前开源许多模型的 AI 科技公司 https://stability.ai/
+Pika：AIGC 视频，收费 https://pika.art/login
+Runway：AIGC 视频，收费 https://runwayml.com/
+Pixverse：AIGC 视频 ，目前免费 https://pixverse.ai/
+LumaAI：AIGC3D，目前免费 https://lumalabs.ai/
+...... (不再举例)
+ 各种营销号 Social Media不做举例，作为另一种渠道也挺好
